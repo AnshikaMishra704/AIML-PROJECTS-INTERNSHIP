@@ -9,7 +9,7 @@ st.title("🛡️ Life Insurance Prediction")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("insurance_data.csv")
+    return pd.read_csv("PROJECT-9 LINEAR REGRESSION/PROJECT-3-main/insurance_data.csv")
 
 df=load_data()
 X=df[["age"]]
