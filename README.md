@@ -19,4 +19,6 @@ PROJECT-8  https://an-prooject-8catanddogclassifyproject-4-mainapp-xqim28.stream
 
 PROJECT-9  https://ansh-project-9linearregressionproject-3-mainapp-ejf40m.streamlit.app/
 
+PROJECT-10  https://anshikamishra704-aiml-projects-project10rentretectionapp-flrmvx.streamlit.app/
+
 PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.app/
