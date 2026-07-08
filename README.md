@@ -15,4 +15,7 @@ PEOJECT-6  https://kmean-exercise-peoject-7-eldc9zckwvudq3j5nik3xr.streamlit.app
 
 PROJECT-7  https://male-and-female-classifier-iuxpawmvctxru5jianb9l4.streamlit.app/
 
+
+PROJECT-8  https://an-prooject-8catanddogclassifyproject-4-mainapp-xqim28.streamlit.app/
+
 PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.app/
