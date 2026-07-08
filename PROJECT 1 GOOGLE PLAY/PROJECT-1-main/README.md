@@ -1,2 +1,1 @@
-# PROJECT-1
-https://project-1-7h3kjiscucjcevdymeuuow.streamlit.app/
+PROJECT-1 https://aiml-projects-internship-nur3lg9acemjasxgi5mstd.streamlit.app/
