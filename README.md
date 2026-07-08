@@ -3,7 +3,7 @@ PROJECTS RELATED TO AIML
 
 PROJECT-1  https://aiml-projects-internship-nur3lg9acemjasxgi5mstd.streamlit.app/
 
-PROJECT-2  https://project-2-ksfbbbhnfxtqzwmm2ayahq.streamlit.app/
+PROJECT-2  https://aiml-projects-internship-awagdrrwdn5xftrtrcpass.streamlit.app/
 
 PROJECT-3  https://anshikamishra704-project--3-canada--app-jlwrlv.streamlit.app/
 
