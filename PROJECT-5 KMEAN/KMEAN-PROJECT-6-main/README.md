@@ -1,3 +1,1 @@
-# KMEAN-PROJECT-6
-THIS IS A PROJECT BASED ON KMEANS
-https://kmean-project-6-ncythki5hucpgavxjcipyf.streamlit.app/
+PROJECT-5 https://aiml-projects-internship-2gnenupzgzahninkkfgwk7.streamlit.app/
