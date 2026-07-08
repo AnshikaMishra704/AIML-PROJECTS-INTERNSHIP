@@ -6,3 +6,6 @@ seaborn
 joblib
 pillow
 opencv-python-headless
+numpy
+h5py
+tensorflow
