@@ -1,7 +1,7 @@
 # AIML-PROJECTS-INTERNSHIP
 PROJECTS RELATED TO AIML
 
-PROJECT-1  https://project-1-7h3kjiscucjcevdymeuuow.streamlit.app/
+PROJECT-1  https://aiml-projects-internship-nur3lg9acemjasxgi5mstd.streamlit.app/
 
 PROJECT-2  https://project-2-ksfbbbhnfxtqzwmm2ayahq.streamlit.app/
 
