@@ -1,3 +1,1 @@
-# MALE-AND-FEMALE-CLASSIFIER
-THIS IS A PROJECT BASED ON GENDER CLASSIFICATION
-https://male-and-female-classifier-iuxpawmvctxru5jianb9l4.streamlit.app/
+PROJECT-7 https://aiml-projects-internship-36seqmsqg2lbjxp9a9wr5y.streamlit.app/
