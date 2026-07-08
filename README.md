@@ -5,11 +5,11 @@ PROJECT-1  https://aiml-projects-internship-nur3lg9acemjasxgi5mstd.streamlit.app
 
 PROJECT-2  https://aiml-projects-internship-awagdrrwdn5xftrtrcpass.streamlit.app/
 
-PROJECT-3  https://anshikamishra704-project--3-canada--app-jlwrlv.streamlit.app/
+PROJECT-3  https://aiml-projects-internship-eawq5dmpfntg3abdvgbskb.streamlit.app/
 
-PROJECT-4  https://anshikamishra704-project-3-app1-ip8cea.streamlit.app/
+PROJECT-4  https://aiml-projects-internship-gspuymggrvpwf8wmcagkc7.streamlit.app/
 
-PROJECT-5  https://kmean-project-6-ncythki5hucpgavxjcipyf.streamlit.app/
+PROJECT-5  https://aiml-projects-internship-2gnenupzgzahninkkfgwk7.streamlit.app/
 
 PEOJECT-6  https://kmean-exercise-peoject-7-eldc9zckwvudq3j5nik3xr.streamlit.app/
 
