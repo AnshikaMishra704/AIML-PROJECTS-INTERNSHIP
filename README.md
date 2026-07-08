@@ -11,9 +11,9 @@ PROJECT-4  https://aiml-projects-internship-gspuymggrvpwf8wmcagkc7.streamlit.app
 
 PROJECT-5  https://aiml-projects-internship-2gnenupzgzahninkkfgwk7.streamlit.app/
 
-PEOJECT-6  https://kmean-exercise-peoject-7-eldc9zckwvudq3j5nik3xr.streamlit.app/
+PEOJECT-6  https://aiml-projects-internship-fevrpnpfuxza7wesn2qdbw.streamlit.app/
 
-PROJECT-7  https://male-and-female-classifier-iuxpawmvctxru5jianb9l4.streamlit.app/
+PROJECT-7  https://aiml-projects-internship-36seqmsqg2lbjxp9a9wr5y.streamlit.app/
 
 PROJECT-8  https://an-prooject-8catanddogclassifyproject-4-mainapp-xqim28.streamlit.app/
 
