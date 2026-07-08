@@ -1,5 +1,1 @@
-streamlit
-tensorflow
-numpy
-pillow
-h5py
+python-3.11
