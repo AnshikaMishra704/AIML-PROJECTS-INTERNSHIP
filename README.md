@@ -22,3 +22,5 @@ PROJECT-9  https://ansh-project-9linearregressionproject-3-mainapp-ejf40m.stream
 PROJECT-10  https://anshikamishra704-aiml-projects-project10rentretectionapp-flrmvx.streamlit.app/
 
 PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.app/
+
+PROJECT-12  https://project-12-covid-xray-flcik74ln7fe6ws95up8bu.streamlit.app/
