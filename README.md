@@ -9,6 +9,6 @@ PROJECT-3  https://anshikamishra704-project--3-canada--app-jlwrlv.streamlit.app/
 
 PROJECT-4  https://anshikamishra704-project-3-app1-ip8cea.streamlit.app/
 
-PROJECT-6  https://kmean-project-6-ncythki5hucpgavxjcipyf.streamlit.app/
+PROJECT-5  https://kmean-project-6-ncythki5hucpgavxjcipyf.streamlit.app/
 
 PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.app/
