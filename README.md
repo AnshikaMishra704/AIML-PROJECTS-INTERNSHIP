@@ -13,4 +13,6 @@ PROJECT-5  https://kmean-project-6-ncythki5hucpgavxjcipyf.streamlit.app/
 
 PEOJECT-6  https://kmean-exercise-peoject-7-eldc9zckwvudq3j5nik3xr.streamlit.app/
 
+PROJECT-7  https://male-and-female-classifier-iuxpawmvctxru5jianb9l4.streamlit.app/
+
 PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.app/
