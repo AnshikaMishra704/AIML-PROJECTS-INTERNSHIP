@@ -26,3 +26,5 @@ PROJECT-11 https://anshikamishra704-project-11-malefemale-app-fjkayv.streamlit.a
 PROJECT-12  https://project-12-covid-xray-flcik74ln7fe6ws95up8bu.streamlit.app/
 
 PROJECT-13 https://project-13-malefemale-eyes-detection-mkvx8cuc4gcvoccadezprf.streamlit.app/
+
+PROJECT-14  https://project-14-wahing-machine.streamlit.app/
